@@ -3,7 +3,7 @@
 Interactive sales dashboard for a fictional New York coffee chain (Maven Roasters),
 built in Google Sheets.
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2026-10-18 133825.png)
 
 **Live dashboard:** [View in Google Sheets](https://docs.google.com/spreadsheets/d/11Nm3ZPD3xAfO4NlW5UXHhk8TqdDmUlOxhzRYTKA7IaM/edit?pli=1&gid=1646017324#gid=1646017324)
 
